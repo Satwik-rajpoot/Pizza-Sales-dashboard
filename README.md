@@ -5,6 +5,8 @@ This project analyzes pizza sales data using **SQL** for KPI calculations and tr
 The goal is to uncover sales patterns, customer behavior, and product performance to support better decision-making.
 
 ---
+<h1>Dashboard View</h1>
+<img width="1373" height="647" alt="Pizza_Anlytics_Report" src="https://github.com/Satwik-rajpoot/Pizza-Sales-dashboard/blob/main/snip/Screenshot%202025-12-24%20035455.png">
 
 ## 🎯 Key KPIs
 - **Total Revenue**: Sum of all order values  
